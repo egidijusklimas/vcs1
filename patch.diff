@@ -1,0 +1,21 @@
+From 74b56570d9dee7d3c519b4070227aa07c5b7c541 Mon Sep 17 00:00:00 2001
+From: egidijusklimas <egidijus.klimas@yahoo.com>
+Date: Tue, 15 Nov 2016 11:57:10 -0500
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..cbd4c10
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# vcs1
+\ No newline at end of file
+-- 
+2.8.1.windows.1
+
